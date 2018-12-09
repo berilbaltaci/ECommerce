@@ -1,0 +1,64 @@
+﻿@*@model IEnumerable<ECommerce.Entity.OrderDetail>*@
+@using ECommerce.Entity
+@model IEnumerable<OrderDetail>
+
+@{
+    ViewBag.Title = "DetailList";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+<h2>DetailList</h2>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.OrderId)
+        </th>
+        <th> </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Product.ProductName)
+        </th>
+        <th> </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Quantity)
+        </th>
+        <th> </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Price)
+        </th>
+    </tr>
+    @foreach (var item in Model)
+    {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.OrderId)
+        </td>
+        <td> </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Product.ProductName)
+        </td>
+        <td> </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Quantity)
+        </td>
+        <td> </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Price)
+        </td>
+        <td> </td>
+        <td>
+            @Html.ActionLink("Delete", "Delete", new { id = item.ProductId })
+        </td>
+    </tr>
+    }
+    <tr>
+        <td colspan="5" style="text-align:right">
+            @{
+                Order o = (Order)Session["Order"];
+                <span>Total:@o.TotalPrice</span>
+            }
+        </td>
+    </tr>
+</table>
+<form method="get" action="~/Payment/Pay">
+    <input type="submit" value="Continue To Pay"/>
+</form>

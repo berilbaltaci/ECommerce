@@ -1,0 +1,54 @@
+﻿@using ECommerce.Entity
+@using ECommerce.Repository
+@{
+    Member mem = (Member)HttpContext.Current.Session["UserID"];
+    ViewBag.Title = "LatestOrders";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+<h2>LatestOrders</h2>
+@{
+    OrderRep ordRep = new OrderRep();
+
+<table>
+    <tr>
+        <th>
+            Sipariş No
+            <hr />
+        </th>
+        <th> </th>
+        <th>
+            Sipariş Tarihi
+            <hr />
+        </th>
+        <th> </th>
+        <th>
+            Toplam Fiyat
+            <hr />
+        </th>
+        <th> </th>
+        <th>
+            Details
+            <hr />
+        </th>
+    </tr>
+
+    @{
+        foreach (Order item in ordRep.GetLatestOrders(mem.UserId,true).ProcessResult)
+        {
+    <tr>
+        <td>@item.OrderId</td>
+        <td> </td>
+        <td>@item.OrderDate</td>
+        <td> </td>
+        <td>@item.TotalPrice</td>
+        <td> </td>
+        <td><a href="~/Home/OrderDet/@item.OrderId">Detail</a></td>
+    </tr>
+        }
+    }
+
+</table>
+}
+
+

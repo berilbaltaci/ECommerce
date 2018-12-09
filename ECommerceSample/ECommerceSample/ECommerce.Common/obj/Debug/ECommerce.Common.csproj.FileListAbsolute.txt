@@ -1,0 +1,40 @@
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerce.Common\bin\Debug\ECommerce.Common.dll.config
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerce.Common\bin\Debug\ECommerce.Common.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerce.Common\bin\Debug\ECommerce.Common.pdb
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerce.Common\bin\Debug\ECommerce.Entity.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerce.Common\bin\Debug\EntityFramework.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerce.Common\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerce.Common\bin\Debug\ECommerce.Entity.pdb
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerce.Common\bin\Debug\EntityFramework.xml
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerce.Common\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerce.Common\obj\Debug\ECommerce.Common.csprojResolveAssemblyReference.cache
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerce.Common\obj\Debug\ECommerce.Common.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerce.Common\obj\Debug\ECommerce.Common.pdb
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerce.Common\bin\Debug\ECommerce.Common.dll.config
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerce.Common\bin\Debug\ECommerce.Common.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerce.Common\bin\Debug\ECommerce.Common.pdb
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerce.Common\bin\Debug\ECommerce.Entity.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerce.Common\bin\Debug\EntityFramework.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerce.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerce.Common\bin\Debug\ECommerce.Entity.pdb
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerce.Common\bin\Debug\ECommerce.Entity.dll.config
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerce.Common\bin\Debug\EntityFramework.xml
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerce.Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerce.Common\obj\Debug\ECommerce.Common.csprojResolveAssemblyReference.cache
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerce.Common\obj\Debug\ECommerce.Common.csproj.CoreCompileInputs.cache
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerce.Common\obj\Debug\ECommerce.Common.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerce.Common\obj\Debug\ECommerce.Common.pdb
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerce.Common\bin\Debug\ECommerce.Common.dll.config
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerce.Common\bin\Debug\ECommerce.Common.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerce.Common\bin\Debug\ECommerce.Common.pdb
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerce.Common\bin\Debug\ECommerce.Entity.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerce.Common\bin\Debug\EntityFramework.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerce.Common\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerce.Common\bin\Debug\ECommerce.Entity.pdb
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerce.Common\bin\Debug\ECommerce.Entity.dll.config
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerce.Common\bin\Debug\EntityFramework.xml
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerce.Common\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerce.Common\obj\Debug\ECommerce.Common.csprojResolveAssemblyReference.cache
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerce.Common\obj\Debug\ECommerce.Common.csproj.CoreCompileInputs.cache
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerce.Common\obj\Debug\ECommerce.Common.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerce.Common\obj\Debug\ECommerce.Common.pdb

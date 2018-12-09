@@ -1,0 +1,10 @@
+﻿@using ECommerce.Entity
+@{
+    Member mem = (Member)HttpContext.Current.Session["UserID"];
+    Member user = (Member)Session["UserID"];
+    ViewBag.Title = "AdminHome";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+<h1>WELCOME @user.FirstName.ToUpper() @user.LastName.ToUpper()</h1>
+
+

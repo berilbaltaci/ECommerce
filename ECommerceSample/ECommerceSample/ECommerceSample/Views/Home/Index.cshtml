@@ -1,0 +1,11 @@
+﻿@using ECommerce.Entity
+@model IEnumerable<Product>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+<h2>Latest Product</h2>
+@*Bu kismi PartialView ile Olusturucam*@
+@Html.Partial("~/Views/Shared/_ProductList.cshtml")
+

@@ -1,0 +1,35 @@
+﻿@model ECommerce.Entity.Invoice
+@using ECommerce.Entity
+@{
+    Member mem = (Member)HttpContext.Current.Session["UserID"];
+    ViewBag.Title = "Pay";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+<h2>Pay</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Invoice</legend>
+        <div class="editor-label">
+            @Html.LabelFor(model=>model.Address)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model=>model.Address)
+            @Html.ValidationMessageFor(model=>model.Address)
+        </div>
+        <div class="editor-label">
+            @Html.LabelFor(model=>model.Payment)
+        </div>
+        <div class="editor-field">
+            @Html.DropDownList("PaymentTypes",ViewBag.Skills as SelectList)
+            @*viewbag.skills içerisinde barındırılan nesneyi Selectlist olarak kullanmamızı sağlayan yapı*@
+            @Html.ValidationMessageFor(model=>model.PaymentTypeId)
+        </div>
+        <input value="Create" type="submit"/>
+    </fieldset>
+}

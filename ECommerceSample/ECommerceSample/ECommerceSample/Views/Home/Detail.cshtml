@@ -1,0 +1,30 @@
+﻿@using ECommerce.Entity
+@model Product
+@{
+    ViewBag.Title = "Detail";
+    Layout = "~/Views/Shared/_UserLayout.cshtml";
+}
+
+<h2>Detail</h2>
+<div class="center_title_bar">@Html.DisplayFor(m=>m.ProductName)</div>
+<div class="prod_box_big">
+    <div class="top_prod_box_big"></div>
+    <div class="center_prod_box_big">
+        <div class="product_img_big">
+            <a href="javascript:popImage('images/big_pic.jpg','Some Title')" title="header=[Zoom] body=[&nbsp;] fade=[on]"><img src="~/Upload/@Html.DisplayFor(m=>m.Photo)" alt="" border="0" width="92" height="92" /></a>          
+        </div>
+        <div class="details_big_box">
+            <div class="product_title_big">@Html.DisplayFor(m=>m.ProductName)</div>
+            <div class="specifications">
+                Stock: <span class="blue">@Html.DisplayFor(m=>m.Stock)</span><br />
+                Garantie: <span class="blue">24 months</span><br />
+                Category: <span class="blue">@Html.DisplayFor(m=>m.Category.CategoryName)</span><br />
+                Brand: <span class="blue">@Html.DisplayFor(m=>m.Brand.BrandName)</span><br />
+            </div>
+            <div class="prod_price_big"><span class="price">@Html.DisplayFor(m=>m.Price)</span></div>
+            <a href="~/Order/Add/@Model.ProductId" class="addtocart">add to cart</a>
+        </div>
+    </div>
+    <div class="bottom_prod_box_big"></div>
+</div>
+

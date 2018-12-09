@@ -1,0 +1,31 @@
+﻿@using ECommerce.Entity
+@model IEnumerable<Category>
+@{
+    ViewBag.Title = "List";
+    Layout = "~/Areas/Admin/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Category List</h2>
+<div>
+    <p>@ViewBag.Mesaj</p>
+</div>
+<table class="table table-condensed">
+    <tr class="active">
+        <td>@Html.DisplayNameFor(t=>t.CategoryName)</td>
+        <td>@Html.DisplayNameFor(t=>t.Description)</td>
+        <td>Edit&Delete</td>
+    </tr>
+    @foreach (Category item in Model)
+    {
+        <tr>
+            <td>@item.CategoryName</td>
+            <td>@item.Description</td>
+            <td>
+                <a href="~/Admin/Category/Edit/@item.CategoryId">Edit</a>
+                @Html.ActionLink("Delete", "Delete", new { @id=item.CategoryId})
+                
+            </td>
+        </tr>
+    }
+</table>
+

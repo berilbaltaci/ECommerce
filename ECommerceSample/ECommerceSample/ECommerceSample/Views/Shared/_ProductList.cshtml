@@ -1,0 +1,24 @@
+﻿@using ECommerce.Entity
+@model IEnumerable<Product>
+@foreach (Product item in Model)
+{
+    <div class="prod_box">
+        <div class="top_prod_box"></div>
+        <div class="center_prod_box">
+            <div class="product_title"><a href="~/Home/Detail/@item.ProductId">@item.ProductName</a></div>
+            <div class="product_img">
+            <a href="~/Home/Detail/@item.ProductId">
+                <img src="~/Upload/@item.Photo" alt="" border="0" width="99" height="87" />
+                </a>
+            </div>
+            <div class="prod_price"><span class="price">@item.Price.ToString() ₺</span></div>
+        </div>
+        <div class="bottom_prod_box"></div>
+        <div class="prod_details_tab"> 
+        <a href="~/Order/Add/@item.ProductId" title="header=[Add to cart] body=[&nbsp;] fade=[on]">
+            <img src="~/Content/electronix/images/cart.gif" alt="" border="0" class="left_bt" />
+            </a> 
+        <a href="~/Home/Detail/@item.ProductId" class="prod_details">details</a> </div>
+    </div>
+
+}

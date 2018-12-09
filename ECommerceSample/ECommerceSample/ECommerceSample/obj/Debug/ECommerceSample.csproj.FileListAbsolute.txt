@@ -1,0 +1,197 @@
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\ApplicationInsights.config
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\roslyn\csc.exe
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\roslyn\vbc.exe
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\roslyn\VBCSCompiler.exe
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\ECommerceSample.dll.config
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\ECommerceSample.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\ECommerceSample.pdb
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\EntityFramework.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\EntityFramework.SqlServer.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\Microsoft.AI.Web.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\Microsoft.AI.WindowsServer.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\Microsoft.ApplicationInsights.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\System.Web.Helpers.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\System.Web.Mvc.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\System.Web.Razor.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Deployment.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Razor.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\EntityFramework.xml
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\EntityFramework.SqlServer.xml
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\Microsoft.AI.Web.xml
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\Microsoft.AI.WindowsServer.xml
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\Microsoft.ApplicationInsights.xml
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\System.Web.Razor.xml
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.xml
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Deployment.xml
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Razor.xml
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\System.Web.Helpers.xml
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\System.Web.Mvc.xml
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.csprojResolveAssemblyReference.cache
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.pdb
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\ECommerce.Common.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\ECommerce.Entity.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\ECommerce.Repository.dll
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\ECommerce.Common.pdb
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\ECommerce.Entity.pdb
+c:\users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\ECommerce.Repository.pdb
+C:\Users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\Antlr3.Runtime.dll
+C:\Users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\Newtonsoft.Json.dll
+C:\Users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\System.Web.Optimization.dll
+C:\Users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\WebGrease.dll
+C:\Users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\Antlr3.Runtime.pdb
+C:\Users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\Newtonsoft.Json.xml
+C:\Users\ozhan.gulal\documents\visual studio 2015\Projects\ECommerceSample\ECommerceSample\bin\System.Web.Optimization.xml
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\ApplicationInsights.config
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\roslyn\csc.exe
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\roslyn\vbc.exe
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\roslyn\VBCSCompiler.exe
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\ECommerceSample.dll.config
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\ECommerceSample.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\ECommerceSample.pdb
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\Antlr3.Runtime.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\ECommerce.Common.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\ECommerce.Entity.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\ECommerce.Repository.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\EntityFramework.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\EntityFramework.SqlServer.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\Microsoft.AI.Web.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\Microsoft.ApplicationInsights.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\Newtonsoft.Json.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\System.Web.Helpers.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\System.Web.Mvc.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\System.Web.Optimization.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\System.Web.Razor.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Deployment.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Razor.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\WebGrease.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\ECommerce.Common.pdb
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\ECommerce.Common.dll.config
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\ECommerce.Entity.pdb
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\ECommerce.Entity.dll.config
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\ECommerce.Repository.pdb
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\ECommerce.Repository.dll.config
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\Antlr3.Runtime.pdb
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\EntityFramework.xml
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\EntityFramework.SqlServer.xml
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\Microsoft.AI.Web.xml
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\Microsoft.ApplicationInsights.xml
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\Newtonsoft.Json.xml
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\System.Web.Optimization.xml
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\System.Web.Razor.xml
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.xml
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Deployment.xml
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Razor.xml
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\System.Web.Helpers.xml
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\bin\System.Web.Mvc.xml
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.csprojResolveAssemblyReference.cache
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.csproj.CoreCompileInputs.cache
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.dll
+C:\Users\berilbaltaci\Desktop\Yeni klasör\ECommerceSample\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.pdb
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\ApplicationInsights.config
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\roslyn\csc.exe
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\roslyn\vbc.exe
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\roslyn\VBCSCompiler.exe
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\ECommerceSample.dll.config
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\ECommerceSample.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\ECommerceSample.pdb
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\Antlr3.Runtime.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\ECommerce.Common.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\ECommerce.Entity.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\ECommerce.Repository.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\EntityFramework.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\EntityFramework.SqlServer.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\Microsoft.AI.Web.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\Microsoft.ApplicationInsights.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\Newtonsoft.Json.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\System.Web.Helpers.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\System.Web.Mvc.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\System.Web.Optimization.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\System.Web.Razor.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Deployment.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Razor.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\WebGrease.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\ECommerce.Common.pdb
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\ECommerce.Common.dll.config
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\ECommerce.Entity.pdb
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\ECommerce.Entity.dll.config
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\ECommerce.Repository.pdb
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\ECommerce.Repository.dll.config
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\Antlr3.Runtime.pdb
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\EntityFramework.xml
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\EntityFramework.SqlServer.xml
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\Microsoft.AI.Web.xml
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\Microsoft.ApplicationInsights.xml
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\Newtonsoft.Json.xml
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\System.Web.Optimization.xml
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\System.Web.Razor.xml
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.xml
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Deployment.xml
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\System.Web.Webpages.Razor.xml
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\System.Web.Helpers.xml
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\bin\System.Web.Mvc.xml
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.csprojResolveAssemblyReference.cache
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.csproj.CoreCompileInputs.cache
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.dll
+C:\Users\berilbaltaci\Desktop\proje\ECommerceSample\ECommerceSample\ECommerceSample\obj\Debug\ECommerceSample.pdb
